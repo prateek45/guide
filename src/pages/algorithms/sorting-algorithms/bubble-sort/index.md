@@ -45,8 +45,8 @@ Now, the array is already sorted, but our algorithm does not know if it is compl
 - Space complexity: O(1)
 TIME COMPLEXITY:-
 - Best case performance: O(n)
-- Average case performance: O(n*n)
-- Worst case performance: O(n*n)
+- Average case performance: O(n<sup>2</sup>)
+- Worst case performance: O(n<sup>2</sup>)
 - Stable: Yes
 
 ### Video Explanation
@@ -74,8 +74,8 @@ while(!sorted) {
 * Space Complexity: O(1)
 * TIME COMPLEXITY:-
    - Best case performance: O(n)
-   - Average case performance: O(n*n)
-   - Worst case performance: O(n*n)
+   - Average case performance: O(n<sup>2</sup>)
+   - Worst case performance: O(n<sup>2</sup>)
 * In place: Yes
 * Stable: Yes
 
